@@ -1,17 +1,17 @@
 # 🔥 Fire & Smoke Detection System — PKL KOM1399
 
-Proyek ini dikembangkan sebagai bagian dari kegiatan **Praktik Kerja Lapangan (PKL) KOM1399 — Program Studi Ilmu Komputer IPB University**. Sistem ini menerapkan teknologi **Computer Vision dan Deep Learning** untuk mendeteksi **api (fire)** dan **asap (smoke)** secara **real-time** dari kamera **CCTV** maupun sumber video lainnya.
+Proyek ini dikembangkan sebagai bagian dari kegiatan **Praktik Kerja Lapangan (PKL) KOM1399 — Program Studi Ilmu Komputer IPB University 2025**. Sistem ini menerapkan teknologi **Computer Vision dan Deep Learning** untuk mendeteksi **api (fire)** dan **asap (smoke)** secara **real-time** dari kamera **CCTV** maupun sumber video lainnya.
 
 Tujuan utama sistem adalah memberikan **peringatan dini terhadap potensi kebakaran** sehingga penanganan dapat dilakukan lebih cepat untuk meminimalkan risiko kerugian material maupun korban jiwa.
 
 ---
 
-## 🚀 Latar Belakang
+## Latar Belakang
 
 Sistem monitoring CCTV tradisional masih bergantung pada pengawasan manual oleh operator, sehingga potensi kebakaran sering terlambat terpantau. Teknologi pendeteksian otomatis berbasis AI dapat membantu:
 
 * Mendeteksi api & asap lebih cepat sejak fase awal kebakaran
-* Mendukung kerja operator ruang kontrol
+* Mendukung kerja operator pengawasan
 * Mengoptimalkan sistem keamanan kota berbasis **Smart City**
 
 Proyek ini menjadi prototype sistem **Smart CCTV Fire Monitoring** yang dapat terintegrasi dengan jaringan CCTV pemerintah.
@@ -27,11 +27,13 @@ Proyek ini menjadi prototype sistem **Smart CCTV Fire Monitoring** yang dapat te
 | Framework CV        | OpenCV                         |
 | GPU Training        | NVIDIA Tesla T4 (Kaggle)       |
 | Tools Dataset       | Roboflow                       |
-| Lingkungan Training | Google Colab / Kaggle Notebook |
+| Lingkungan Training | Kaggle Notebook                |
 
 ---
 
 ## 📂 Dataset & Pelatihan Model
+
+Dataset : https://app.roboflow.com/ds/PGJpht0h6q?key=jxqMN2BbWc
 
 Dataset proyek terdiri dari:
 
@@ -74,7 +76,7 @@ Model terbaik adalah **Baseline 3 (4200 data)**.
 ## 🎥 Demo Hasil Deteksi
 
 Video inferensi dapat dilihat melalui link berikut:
-🔗 **[https://drive.google.com/xxxxxxxx](https://drive.google.com/xxxxxxxx)**
+🔗 **[[https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing)]([https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing))**
 
 Visualisasi bounding box:
 
@@ -127,7 +129,7 @@ Bounding Box + Confidence + Warning Output
 
 | Rencana                                                | Status |
 | ------------------------------------------------------ | ------ |
-| Notifikasi Telegram/WhatsApp                           | 🔜     |
+| Notifikasi WhatsApp                                    | 🔜     |
 | Integrasi Dashboard Smart City                         | 🔜     |
 | Multi-CCTV Streaming                                   | 🔜     |
 | Perhitungan luas area api (fire severity)              | 🔜     |
@@ -149,15 +151,3 @@ Periode: **2025**
 ### ⭐ Dukungan
 
 Jika repo ini bermanfaat, bantu dengan memberi ⭐ pada GitHub — sangat berarti untuk dokumentasi PKL & portofolio karier.
-
----
-
-Kalau mau, aku bisa:
-📌 tambahkan **screenshots bounding box ke README**
-📌 buat **diagram arsitektur PNG**
-📌 buat **badge spesifikasi model (GPU, Python, mAP)**
-📌 atau **optimalkan README jadi bilingual (ID + EN)**
-
-Tinggal bilang ya Bintang 💙
-
-Dataset : https://app.roboflow.com/ds/PGJpht0h6q?key=jxqMN2BbWc
