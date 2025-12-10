@@ -75,8 +75,8 @@ Model terbaik adalah **Baseline 3 (4200 data)**.
 
 ## 🎥 Demo Hasil Deteksi
 
-Video inferensi dapat dilihat melalui link berikut:
-🔗 **[[https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing)]([[https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing)](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing))**
+Video inferensi dapat dilihat melalui link berikut:  
+🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1lvIIazs7oYSJuiA4CooFU0j9Knym2i66?usp=sharing)
 
 Visualisasi bounding box:
 
