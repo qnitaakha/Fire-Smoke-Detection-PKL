@@ -137,6 +137,13 @@ Bounding Box + Confidence + Warning Output
 
 ---
 
+### 📑 PPT
+
+Presentasi proyek (PPT) dapat dilihat melalui link berikut:
+🔗 [Canva Presentation](https://www.canva.com/design/DAG3KRdpNos/mP7uwTQgu0OdMB4xP4Ps4g/edit?utm_content=DAG3KRdpNos&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
 ## 👩‍💻 Tentang Pengembang
 
 Proyek dikembangkan oleh:
